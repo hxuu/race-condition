@@ -2,7 +2,7 @@
 
 This repo contains test code, basically a PoC for the race condition vulnerabiliy.
 
-![poc](/home/anskarts/personal/race-condition-test/screenshots/2025-01-02-20-36-50.png)
+![poc](/screenshots/2025-01-02-20-36-50.png)
 
 ---
 
